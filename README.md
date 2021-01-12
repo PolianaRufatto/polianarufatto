@@ -47,5 +47,4 @@
 </details>
 <br/>
 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/polianarufatto)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=polianarufatto&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
