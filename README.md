@@ -8,10 +8,11 @@
 
 ### Tech Stack
 ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-000)&nbsp;
-![Cucumber](https://img.shields.io/badge/-Cucumber-000)&nbsp;
+![Cucumber](https://img.shields.io/badge/-Cucumber-000?style=flat&logo=cucumber&logoColor=23D96C)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-000?style=flat&logo=cypress&logoColor=17202C)&nbsp;
 ![Mocha](https://img.shields.io/badge/-Mocha-000?style=flat&logo=mocha&logoColor=8D6748)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=Jest&logoColor=C21325)&nbsp;
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-000?style=flat&logo=testing-library&logoColor=E33332)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![IOS](https://img.shields.io/badge/-IOS-000?style=flat&logo=ios&logoColor=000000)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows&logoColor=0078D6)&nbsp;
