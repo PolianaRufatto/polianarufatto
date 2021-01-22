@@ -32,10 +32,10 @@
 
 
 ### You can find me on
-![polianarufatto](https://img.shields.io/badge/-polianarufatto-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/polianarufatto/)&nbsp;
-![@polianarufatto](https://img.shields.io/badge/-@polianarufatto-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/polianarufatto/)&nbsp;
-![polianarufatto@gmail.com](https://img.shields.io/badge/-polianarufatto@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:polianarufatto@gmail.com)&nbsp;
-![@polianarufatto](https://img.shields.io/badge/-@polianarufatto-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/polianarufatto)&nbsp;
+[![Poliana Rufatto](https://img.shields.io/badge/-Poliana%20Rufatto-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/polianarufatto/)](https://www.linkedin.com/in/polianarufatto/)&nbsp;
+[![@polianarufatto](https://img.shields.io/badge/-@polianarufatto-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/polianarufatto/)](https://www.instagram.com/polianarufatto/)&nbsp;
+[![polianarufatto@gmail.com](https://img.shields.io/badge/-polianarufatto@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:polianarufatto@gmail.com)](mailto:polianarufatto@gmail.com)&nbsp;
+[![@polianarufatto](https://img.shields.io/badge/-@polianarufatto-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/polianarufatto)](https://www.twitter.com/polianarufatto)&nbsp;
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -48,4 +48,4 @@
 </details>
 <br/>
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=polianarufatto&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=polianarufatto&repo=github-visitors-badge&countColorcountColor&countColor=000)
