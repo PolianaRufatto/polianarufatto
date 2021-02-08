@@ -1,6 +1,6 @@
 ### Hello, I'm Poliana! 👋
 
-💻 Quality assurance specialist and Front-end developer beginner at [@Softplan](https://www.softplan.com.br/) <br>
+💻 Front-end developer beginner and QA at [@Softplan](https://www.softplan.com.br/) <br>
 🇧🇷 Brazilian and 🇮🇹 Italian <br>
 🏡 Living in Italy but traveling around the world 🌎
 <br/>
