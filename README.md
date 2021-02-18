@@ -2,7 +2,7 @@
 
 💻 Front-end developer beginner and QA at [@Softplan](https://www.softplan.com.br/) <br>
 🇧🇷 Brazilian and 🇮🇹 Italian <br>
-🏡 Living in Malta 🇲🇹 but traveling around the world 🌎
+🏡 Living in Malta 🇲🇹 🌎
 <br/>
 
 
