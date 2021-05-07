@@ -7,7 +7,7 @@
 
 
 ### Tech Stack
-![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-000)&nbsp;
+![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-000?style=flat&logo=WebdriverIO&logoColor=EA5906)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-000?style=flat&logo=cucumber&logoColor=23D96C)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-000?style=flat&logo=cypress&logoColor=17202C)&nbsp;
 ![Mocha](https://img.shields.io/badge/-Mocha-000?style=flat&logo=mocha&logoColor=8D6748)&nbsp;
@@ -22,6 +22,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)&nbsp;
 ![Strapi](https://img.shields.io/badge/-Strapi-000?style=flat&logo=strapi&logoColor=2E7EEA)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-000?style=flat&logo=Storybook&logoColor=FF4785)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=GraphQL&logoColor=E10098)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)&nbsp;
