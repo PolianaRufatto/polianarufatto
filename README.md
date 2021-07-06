@@ -1,6 +1,6 @@
 ### Hello, I'm Poliana! 👋
 
-💻 Front-end developer beginner and QA at [@Softplan](https://www.softplan.com.br/) <br>
+💻 Front-end developer at [@Softplan](https://www.softplan.com.br/) <br>
 🇧🇷 Brazilian and 🇮🇹 Italian <br>
 🏡 Living in Malta 🇲🇹 🌎
 <br/>
