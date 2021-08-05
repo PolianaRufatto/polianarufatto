@@ -14,7 +14,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=Jest&logoColor=C21325)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-000?style=flat&logo=testing-library&logoColor=E33332)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624)&nbsp;
-![IOS](https://img.shields.io/badge/-IOS-000?style=flat&logo=ios&logoColor=000000)&nbsp;
+![macOS](https://img.shields.io/badge/-macOS-000?style=flat&logo=macOS&logoColor=11111)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows&logoColor=0078D6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript&logoColor=3178C6$color=0d1117)&nbsp;
