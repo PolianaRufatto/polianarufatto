@@ -1,6 +1,6 @@
 ### Hello, I'm Poliana! 👋
 
-💻 Front-end developer at [@Softplan](https://www.softplan.com.br/) <br>
+💻 QA Automation Engineer at [@KaFe Rocks](https://kafe.rocks/) <br>
 🇧🇷 Brazilian and 🇮🇹 Italian <br>
 🏡 Living in Malta 🇲🇹 🌎
 <br/>
@@ -21,7 +21,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)&nbsp;
-![Strapi](https://img.shields.io/badge/-Strapi-000?style=flat&logo=strapi&logoColor=2E7EEA)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-000?style=flat&logo=Storybook&logoColor=FF4785)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=GraphQL&logoColor=E10098)&nbsp;
