@@ -39,7 +39,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=polianarufatto&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=polianarufatto&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
 </details>
 
 <details>
