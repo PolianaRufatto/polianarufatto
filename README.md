@@ -1,6 +1,7 @@
 ### Hello, I'm Poliana! 👋
 
-💻 QA Automation Engineer at [@KaFe Rocks](https://kafe.rocks/) <br>
+💻 QA Automation Engineer at [@KaFe Rocks Group](https://kafe.rocks/) </br>
+🧑‍🎨 Digital artist at [@polianarufatto.art](https://www.instagram.com/polianarufatto.art/) </br>
 🇧🇷 Brazilian and 🇮🇹 Italian <br>
 🏡 Living in Malta 🇲🇹 🌎
 <br/>
@@ -47,5 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianarufatto&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
 </details>
 <br/>
+
+<a href='https://ko-fi.com/Z8Z274NK3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=polianarufatto&repo=github-visitors-badge&countColorcountColor&countColor=000)
