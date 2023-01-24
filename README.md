@@ -3,7 +3,8 @@
 💻 QA Automation Engineer at [@KaFe Rocks Group](https://kafe.rocks/) </br>
 🧑‍🎨 Digital artist at [@polianarufatto.art](https://www.instagram.com/polianarufatto.art/) </br>
 🇧🇷 Brazilian and 🇮🇹 Italian <br>
-🏡 Living in Malta 🇲🇹 🌎
+🏡 Living in Amsterdam 🇳🇱 <br>
+🧑‍💻 Working for Malta 🇲🇹
 <br/>
 
 
