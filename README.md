@@ -15,22 +15,15 @@
 ![Mocha](https://img.shields.io/badge/-Mocha-000?style=flat&logo=mocha&logoColor=8D6748)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=Jest&logoColor=C21325)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-000?style=flat&logo=testing-library&logoColor=E33332)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624)&nbsp;
-![macOS](https://img.shields.io/badge/-macOS-000?style=flat&logo=macOS&logoColor=11111)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows&logoColor=0078D6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript&logoColor=3178C6$color=0d1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)&nbsp;
-![Storybook](https://img.shields.io/badge/-Storybook-000?style=flat&logo=Storybook&logoColor=FF4785)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=GraphQL&logoColor=E10098)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL&logoColor=336791)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-000?style=flat&logo=Oracle&logoColor=F80000)&nbsp;
 
 
 ### You can find me on
