@@ -1,5 +1,5 @@
 <h2> Hey, I'm Poliana! 🙋 </h2>  
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQ1NHA2bzQxZ3cyaTF2eDB5Z214MzBiZ211OWxwNzBvdXFqcWxnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6RQunjGphgB1GEVkO/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/f6RQunjGphgB1GEVkO/giphy.gif" width="200">
 
 [![Poliana Rufatto](https://img.shields.io/badge/-Poliana%20Rufatto-black?style=flat-square&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/polianarufatto/)](https://www.linkedin.com/in/polianarufatto/)
 [![polianarufatto@gmail.com](https://img.shields.io/badge/-polianarufatto@gmail.com-black?style=flat-square&logo=Gmail&logoColor=D14836&link=mailto:polianarufatto@gmail.com)](mailto:polianarufatto@gmail.com)
