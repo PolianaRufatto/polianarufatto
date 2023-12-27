@@ -1,9 +1,6 @@
 <h2> Hey, I'm Poliana! 🙋 </h2>  
 <img align='right' src="https://media.giphy.com/media/f6RQunjGphgB1GEVkO/giphy.gif" width="200">
 
-[![Poliana Rufatto](https://img.shields.io/badge/-Poliana%20Rufatto-black?style=flat-square&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/polianarufatto/)](https://www.linkedin.com/in/polianarufatto/)
-[![polianarufatto@gmail.com](https://img.shields.io/badge/-polianarufatto@gmail.com-black?style=flat-square&logo=Gmail&logoColor=D14836&link=mailto:polianarufatto@gmail.com)](mailto:polianarufatto@gmail.com)
-
 <p>
   💻 QA Automation Engineer at <a href="https://kafe.rocks/">@KaFe Rocks Group</a></br>
   🧑‍🎨 Digital artist at <a href="https://www.instagram.com/polianarufatto.art/">@polianarufatto.art</a></br>
