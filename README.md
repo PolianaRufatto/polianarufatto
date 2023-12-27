@@ -1,17 +1,20 @@
-### Hello, I'm Poliana! 👋
+<h2> Hey, I'm Poliana! 🙋 </h2>  
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQ1NHA2bzQxZ3cyaTF2eDB5Z214MzBiZ211OWxwNzBvdXFqcWxnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6RQunjGphgB1GEVkO/giphy.gif" width="200">
 
-💻 QA Automation Engineer at [@KaFe Rocks Group](https://kafe.rocks/) </br>
-🧑‍🎨 Digital artist at [@polianarufatto.art](https://www.instagram.com/polianarufatto.art/) </br>
-🇧🇷 Brazilian and 🇮🇹 Italian <br>
-🏡 Living in Amsterdam 🇳🇱 <br>
-🧑‍💻 Working for Malta 🇲🇹
-<br/>
+[![Poliana Rufatto](https://img.shields.io/badge/-Poliana%20Rufatto-black?style=flat-square&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/polianarufatto/)](https://www.linkedin.com/in/polianarufatto/)
+[![polianarufatto@gmail.com](https://img.shields.io/badge/-polianarufatto@gmail.com-black?style=flat-square&logo=Gmail&logoColor=D14836&link=mailto:polianarufatto@gmail.com)](mailto:polianarufatto@gmail.com)
+
+<p>
+  💻 QA Automation Engineer at <a href="https://kafe.rocks/">@KaFe Rocks Group</a></br>
+  🧑‍🎨 Digital artist at <a href="https://www.instagram.com/polianarufatto.art/">@polianarufatto.art</a></br>
+  🇧🇷 Brazilian and 🇮🇹 Italian <br>
+  🏡 Living in Amsterdam 🇳🇱 <br>
+</p>
 
 
-### Tech Stack
+![Cypress](https://img.shields.io/badge/-Cypress-000?style=flat&logo=cypress&logoColor=17202C)&nbsp;
 ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-000?style=flat&logo=WebdriverIO&logoColor=EA5906)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-000?style=flat&logo=cucumber&logoColor=23D96C)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-000?style=flat&logo=cypress&logoColor=17202C)&nbsp;
 ![Mocha](https://img.shields.io/badge/-Mocha-000?style=flat&logo=mocha&logoColor=8D6748)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=Jest&logoColor=C21325)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-000?style=flat&logo=testing-library&logoColor=E33332)&nbsp;
@@ -26,12 +29,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### You can find me on
-[![Poliana Rufatto](https://img.shields.io/badge/-Poliana%20Rufatto-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/polianarufatto/)](https://www.linkedin.com/in/polianarufatto/)&nbsp;
-[![@polianarufatto](https://img.shields.io/badge/-@polianarufatto-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/polianarufatto/)](https://www.instagram.com/polianarufatto/)&nbsp;
-[![polianarufatto@gmail.com](https://img.shields.io/badge/-polianarufatto@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:polianarufatto@gmail.com)](mailto:polianarufatto@gmail.com)&nbsp;
-[![@polianarufatto](https://img.shields.io/badge/-@polianarufatto-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/polianarufatto)](https://www.twitter.com/polianarufatto)&nbsp;
-
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=polianarufatto&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
@@ -43,6 +40,5 @@
 </details>
 <br/>
 
-<a href='https://ko-fi.com/Z8Z274NK3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<img src="https://media.giphy.com/media/h5FX6gsphsJpO4Re7O/giphy.gif" width="250">
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=polianarufatto&repo=github-visitors-badge&countColorcountColor&countColor=000)
