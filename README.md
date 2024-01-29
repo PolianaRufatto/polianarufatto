@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/f6RQunjGphgB1GEVkO/giphy.gif" width="200">
 
 <p>
-  💻 QA Automation Engineer at <a href="https://kafe.rocks/">@KaFe Rocks Group</a></br>
+  💻 QA Automation Engineer at <a href="https://www.nmbrs.com/">@Nmbrs</a></br>
   🧑‍🎨 Digital artist at <a href="https://www.instagram.com/polianarufatto.art/">@polianarufatto.art</a></br>
   🇧🇷 Brazilian and 🇮🇹 Italian <br>
   🏡 Living in Amsterdam 🇳🇱 <br>
