@@ -16,7 +16,7 @@
 ![Mocha](https://img.shields.io/badge/-Mocha-000?style=flat-square&logo=mocha&logoColor=8D6748&color=282a36)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-000?style=flat-square&logo=Jest&logoColor=C21325&color=282a36)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-000?style=flat-square&logo=testing-library&logoColor=E33332&color=282a36)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript&logoColor=ddc508&color=282a36)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript&logoColor=F7DF1E&color=282a36)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=HTML5&color=282a36)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat-square&logo=css&logoColor=663399&color=282a36)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&color=282a36)&nbsp;
@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat-square&logo=visual-studio-code&logoColor=007ACC&color=282a36)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-000?style=flat-square&logo=postman&logoColor=FF6C37&color=282a36)&nbsp;
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=polianarufatto&theme=dracula&hide_border=true&border_radius=0&short_numbers=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=polianarufatto&theme=dracula&hide_border=true&border_radius=0&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!-- <details>
   <summary>:flying_saucer: Github metrics</summary>
