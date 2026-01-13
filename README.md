@@ -8,10 +8,9 @@
   🏡 Living in Apeldoorn 🇳🇱 <br>
 </p>
 
-
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-282a36?style=flat-square&logo=playwright&logoColor=2EAD33)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-000?style=flat-square&logo=cypress&logoColor=69D3A7&color=282a36)&nbsp;
 ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-000?style=flat-square&logo=WebdriverIO&logoColor=EA5906&color=282a36)&nbsp;
-![Playwright](https://img.shields.io/badge/-Playwright-000?style=flat-square&logo=Playwright&logoColor=2EAD33&color=282a36)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-000?style=flat-square&logo=cucumber&logoColor=23D96C&color=282a36)&nbsp;
 ![Mocha](https://img.shields.io/badge/-Mocha-000?style=flat-square&logo=mocha&logoColor=8D6748&color=282a36)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-000?style=flat-square&logo=Jest&logoColor=C21325&color=282a36)&nbsp;
@@ -19,6 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript&logoColor=F7DF1E&color=282a36)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=HTML5&color=282a36)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat-square&logo=css&logoColor=663399&color=282a36)&nbsp;
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=flat-square&logo=cshrp&logoColor=3e8926&color=282a36)&nbsp;
+[![Python](https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=3776AB)](#)
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&color=282a36)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat-square&logo=GraphQL&logoColor=E10098&color=282a36)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&color=282a36)&nbsp;
