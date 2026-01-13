@@ -24,7 +24,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat-square&logo=GraphQL&logoColor=E10098&color=282a36)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&color=282a36)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&color=282a36)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat-square&logo=visual-studio-code&logoColor=007ACC&color=282a36)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-000?style=flat-square&logo=postman&logoColor=FF6C37&color=282a36)&nbsp;
 
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=polianarufatto&theme=dracula&hide_border=true&border_radius=0&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
